@@ -11,7 +11,7 @@ scratch using NumPy only, trained on the MNIST handwritten digit dataset.
 1. Install requirements:
    pip install numpy matplotlib jupyter
 2. Open the notebook:
-   jupyter notebook src/mvc_mlp_25I-3044.ipynb
+   jupyter notebook src/mvc_mlp_25I-3047.ipynb
 3. Run all cells top to bottom (Kernel → Restart & Run All)
    MNIST downloads automatically on first run.
 
