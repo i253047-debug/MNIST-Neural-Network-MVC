@@ -17,7 +17,7 @@ scratch using NumPy only, trained on the MNIST handwritten digit dataset.
 
 ## Results
 - Test accuracy: 95.54% 
-- Epochs: 20
+- Epochs: 10
 - Learning rate: 0.1
 - Batch size: 32
 
